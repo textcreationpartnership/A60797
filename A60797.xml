@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some further considerations about a standing army</title>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60797</idno><idno type="EEBO-CITATION">12255754</idno>
+  <idno type="VID">57441</idno>
+  <idno type="EEBO-PROQUEST">2240955756</idno>
+  
+            <idno type="STC">Wing S4507</idno>
+            <idno type="STC">ESTC R15431</idno>
+            <idno type="OCLC">12255754</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60797)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57441)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 899:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some further considerations about a standing army</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57441:1"/>
+            <pb facs="tcp:57441:1"/>
+            <p>SOME <hi>Further Considerations</hi> ABOUT A STANDING ARMY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:57441:2"/>
+            <pb n="1" facs="tcp:57441:2"/>
+            <head>Some Farther CONSIDERATIONS ABOUT <hi>A Standing Army.</hi>
+            </head>
+            <p n="1">I. A STANDING Army is Destructive to the Constitution of our Government; for it cannot be kept without a Martial Law, which our Laws know not of: Hence it is, that in time of War the Parliament doth Enact One for a time, which ends with the War.</p>
+            <p n="2">II. A Standing Army is Unnecessary in time of Peace, for as it was Raised to make War, so after a Peace it is Disbanded; for the Cause ceasing, the Effect ought also necessarily to cease.</p>
+            <p n="3">III. A Standing Army is Chargeable and Burthensome to the Nation; especially now after so Expensive a War as the Kingdom was lately en<g ref="char:EOLhyphen"/>gag'd in: A great motive for the Peace was, that we wanted Means to carry on the War; and after so hard and long a strugling, must not we be allowed a Breathing time? Constant Bleedings of the Purse weaken the Politick, as well as that of the Vein doth the Natural Body.</p>
+            <p n="4">IV. A Standing Army is Dangerous upon several Accounts.</p>
+            <p>
+               <hi>First.</hi> Against our Laws; for <hi>silent Leges inter arma,</hi> the noise of Drums and Trumpets drowns the voice of the Law, so that it cannot be heard. Except the Martial Law be fully Subordinate to the Civil, it proves troublesome and mischievous, but 'tis unwilling to be kept un<g ref="char:EOLhyphen"/>der: 'Tis usual with the Sword to Rage and Devour; when once it comes in Competition, violently to strive for Superiority, and to Destroy what opposes it: As Peace is a Blessing of God, so War with his De<g ref="char:EOLhyphen"/>pendencies are reckoned among his Judgments.</p>
+            <pb n="2" facs="tcp:57441:3"/>
+            <p>
+               <hi>Secondly.</hi> 'Tis Dangerous to our Liberties, wherein we are maintain'd by the Laws: So that these Walls being pulled down, we lay open, and the Weaker must yield to the stronger; farewell Liberties and Rights, when Men are ruled by the Sword, for that's the End of it. The use and abuse of it do so nearly border, that from one it easily passes to the other.</p>
+            <p>
+               <hi>Thirdly.</hi> 'Tis dangerous to our Fortunes: He who hath the Sword, (which if it can help it, will not be contain'd within bounds) will soon command the Purse, and invade Rights and Properties: So that 'tis a wonder to see any Man of considerable Estates, and seemingly above the Temptation of Bribery and Corruption, to suffer their Judgments to be so far imposed upon, as to be for a standing Army.</p>
+            <p>
+               <hi>Fourthly.</hi> 'Tis so to our Lives; for they make it a trade of Destroy<g ref="char:EOLhyphen"/>ing Men's Lives, and they who spare neither our Liberties nor For<g ref="char:EOLhyphen"/>tunes, will make no scruple to Kill us. Souldiers in their Fits make no more of a Man's Life, then of a Dog's, and will spare one no more than the other. Let God deliver a Nation from being at the Meroy of Souldiers.</p>
+            <p>An Army which hath no Enemy to fight against, and no other work but to Mount the Guards, will be apt enough to grow Idle and Wanton, and mind nothing but Drinking, Whoring, Swearing, <hi>&amp;c.</hi> which I hear part of this present Army is too much given to: They will grow rest<g ref="char:EOLhyphen"/>less, and make the Nation uneasy. Armies which have stirring Offi<g ref="char:EOLhyphen"/>cers, are inclin'd enough to set up an Interest different from, and con<g ref="char:EOLhyphen"/>trary to that of the Nation; they can be brought to Betray our Liber<g ref="char:EOLhyphen"/>ties, or to Usurp them: Have we not an home Instance of what an Army did in <hi>Cromwell</hi>'s time? They pull'd by the Hair, several of their Masters, Members of Parliament, out of the House, and drag'd them into Prison: But what will not they do in private Houses, when strong<g ref="char:EOLhyphen"/>er? They will Ask, and if you Deny they will Take, whereof we have some late Instances. The Landlord shall be Exposed to their Ill Nature and Humours; his Goods and Provisions to their Prodigality or Covetousness; his Wife and Daughters to their Lust; and sometimes in a Drunken Fit, or otherwise, his Life shall not be safe. I tremble to think on all the Mischiefs which an Army is capable to commit, and which, more or less, do almost unavoidably attend Armies! And sup<g ref="char:EOLhyphen"/>pose such things do not always happen, yet 'tis very possible they shall: But is it not Prudence to use means to prevent the Danger as
+<pb n="3" facs="tcp:57441:3"/>well as the Harm it self? An Army is sometimes a Necessary Evil, and when that Necessity, which is the War, ceases, it ought to be removed, which not to do when it may, is a great Folly; and Men must blame themselves for all Inconveniencies that follow there<g ref="char:EOLhyphen"/>upon.</p>
+            <p>I know how with this Specious, but not at all solid and pertinent Argument, that we have a Good and Just King, some would per<g ref="char:EOLhyphen"/>swade the Nation to swallow the Pill, and make a Rod for their Backs: Suppose I grant, we have a Prince, the best, most Just and Generous that ever sate upon a Throne, doth he thereby cease to be a Man? Is not Human Nature in every King attended with Imperfections, Frailties and Corruptions? Is it impossible for them, tho never so well inclin'd, to change and follow Evil Counsel, there being always in Courts, Flattererers, and Men of Ar<g ref="char:EOLhyphen"/>bitrary Spirits and Principles? Besides that <hi>Nemo Sapit Omnibus Ho<g ref="char:EOLhyphen"/>ris.</hi> Certain Occasions and Conjunctures may happen to invite men to do that which they would not have attempted: Princes do not always govern of themselves, being often Influenced by Favourites, nor by themselves but by their Ministers, who many times are by<g ref="char:EOLhyphen"/>assed by Passion or Interest, and are as Clogs in the Wheel; if they can do no Harm they will hinder Good: These Instruments are necessary in a Government, for a King cannot be every where, so stands in need to be informed, but the people are exposed to suffer the Inconveniences of it. — <hi>Delirant Reges, plectuntur A<g ref="char:EOLhyphen"/>chivi.</hi>
+            </p>
+            <p>But besides all this, hath a King a certain Lease of his Life more then another Man? Is it impossible for him suddenly to Dye, and thus leave a Nation in a Confusion, with an Army turn'd loose upon it, whose General may happen to attempt to Usurp the Go<g ref="char:EOLhyphen"/>vernment, and influence the Souldiers with Promises to be their own Carvers? Withal, tho Kings succeed one another, yet are not al<g ref="char:EOLhyphen"/>ways like one another: New King, new Laws; one can build upon the Foundation laid by another, and one having the Power in his Hand can abuse it, and both divide and chuse: Under one pre<g ref="char:EOLhyphen"/>tence or other, he will take all for himself, and with the Lyon in the Table, say; This share I will have because I am the King of Beasts, and this, because I am the Stronger; and this other because I am
+<pb n="4" facs="tcp:57441:4"/>the most Courageous, <hi>&amp;c.</hi> And after this rate, swallow all up, and leave nothing for others.</p>
+            <p>These and many more of that nature, which I omit, are no small things, but worth the serious Thoughts of a Free People, who hath round about, several instances of others that have been Inslaved, and are kept under by means of Armies, among which, those mix'd with Foreigners are the worst and most odious, for commonly they want Love and Tenderness for the Countrey where they are meer Strangers; such are as <hi>Janizaries,</hi> wholly devoted to Arbitrary Power. Now, I say, is it not the part of a wise and prudent Nation to provent the great Evil of Bondage and Slavery, which to effect, the Occasions tending to't, and the Dangers ought to be avoided. No Thinking Man will, if he can help it, lay his Life at the mer<g ref="char:EOLhyphen"/>cy of another, and bring his Head under the Ax; every lying Word and deceitful Promise are not to be trusted to: 'tis but just for eve<g ref="char:EOLhyphen"/>ry particular Man, much more for a whole Nation, to provide for his or their Safety, and not to trust too much in things, of such a Concernment as sometimes Fortunes, Liberties and Lives depend upon. 'Tis ever Good when there is no other end but Self-pre<g ref="char:EOLhyphen"/>servation, which God's and man's Laws do allow, to hold one end of the Staff. To be over Credulous is as vicious an Extreme, as much to be avoided as Incredulousness. Often mens Hearts are false, and they who are inclined to do Misehief, when they have the power in hand, never want one pretence or other to do't; and 'tis more consisting with Reason to believe that one, or very few will design to set up an Arbitrary Power over all, rather than all will combine to Inslave one or few. The Nation is afraid of a Standing Army; now Fear is an Evil and a Torment, if no Evil be intended, it will be an easie Thing to Cure them of their Fear.</p>
+            <p>It will be a blessed thing to see King, Parliament, and men of all sorts in the Nation, every one in their Station, Unanimously to con<g ref="char:EOLhyphen"/>cur to transmit to Posterity the precious Jewel of Liberty we re<g ref="char:EOLhyphen"/>ceived from our Ancestors, which we have cause to Bless them for, so shall our Succesiors bless us, if we continue it to them; but in all likelihood, a Standing Army will cross and hinder this Happi<g ref="char:EOLhyphen"/>ness. What can be said of a Man, who having from his Parents
+<pb n="5" facs="tcp:57441:4"/>received, a plentiful Fortune, hath thorough his Mis-management, Begger'd his Children, and Ruined his Family, but that he is an Unnatural Father, an unjust and ill Man? And what better Inhe<g ref="char:EOLhyphen"/>ritance in the World than Liberty and Property? Which if we neg<g ref="char:EOLhyphen"/>lect, and want a due care to preserve to Posterity, we thereby be<g ref="char:EOLhyphen"/>tray our Countrey, and draw the Curse of God and Men upon us.</p>
+            <p>Yet no Rational Man will be against such Land Forces as are necessary for the safety of the King's Person, and somewhat for the Dignity of the Crown, such a Number as the Honourable the House of <hi>Commons,</hi> have in their Wisdom thought sit to allow; but there ought to be none to be a Burthen and Terror to the People: To Defend the Kingdom against any Foreign Attempts, have a Fleet as great as you please; 'tis that which must maintain abroad the Honour and Interest of the Nation; secure our Trade; encourage our Seamen, and make Money circulate at home, and not a Standing Army: Yet, in contempt of a positive Resolution of Parliament to Disband the Army, and Money having been given towards it, to the great Charges and Detriment of the Nation, it hath been, and still is kept on soot; and 'tis very sad that the Question is put again, Whether Army, or no Army? when it ought to have been, Why it was not Disbanded.</p>
+            <p>Some things of late were seasonably Publish'd against a Standing Army, with so good Reasons and so much to the Purpose, that we have seen nothing reasonable in Opposition to't; all that hath been said being either not true, or not pertinent: Only with a great Confi<g ref="char:EOLhyphen"/>dence, void of Reason, now openly and above board declaring for a Standing Army, which before was done with something more of Mo<g ref="char:EOLhyphen"/>desty: Yet, not to seem altogether to want Arguments, some, such as they are, they make use of, as are to be Read in a late Pamphlet.</p>
+            <pb n="6" facs="tcp:57441:5"/>
+            <p> The Author avoids coming to the Point, only to fill up some few Pages, he wanders from the Question: What is it to the mat<g ref="char:EOLhyphen"/>ter, whether <hi>the History of a Standing Army,</hi> was penn'd by a Club of high Church-men, Jacobites, Common-wealth-men, <hi>&amp;c.</hi> The Reasons ought to have been weighed and examin'd, but to bring it in as matter of Religion, as he doth, is very impertinent, when the thing to be discuss'd is, whether or not a Standing Army now in time of Peace, be contrary to the Nature of the Government, unne<g ref="char:EOLhyphen"/>cessary, chargeable, and dangerous? These Topicks the Gentle<g ref="char:EOLhyphen"/>man should have gone upon; but on the Contrary, he to make the matter of his Pamphlet agree with the Title of <hi>Reflections,</hi> which he gives it, doth more reflect on persons, than inquire into things: I can find not one good Reason in't, (if you except that the King's Opinion ought to be taken, and his Judgment rely'd upon sooner then on that of a mixt Club of Socinians, Jacobites, and pretended Repub<g ref="char:EOLhyphen"/>licans) whereunto he joyns what the Parliaments of <hi>Scotland</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land</hi> have done, (but he forbears to say by what motives and influen<g ref="char:EOLhyphen"/>ces, and some other Circumstances) which may carry an Authority but no Reason along with it. The proceedings of these Parlia<g ref="char:EOLhyphen"/>ments are at most an Example, but no Rule for an <hi>English</hi> Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>What he saith of Rescuing Three Nations, the Protestant Cause, the common Liberties of Europe, (<hi>p.</hi> 5. 10. 12.) and of breaking the Chains from off the Necks of the Princes in Europe, is neither true, nor to the purpose: If they be broken, we need not to be afraid of them, as he would make us to be, if not, then a great Treasure hath been spent, and much Blood shed in vain; and if there was nothing else, we might by that Paw judge of the whole Lyon, and so we must look upon the great Exploits he fancies such a Standing Army could do against the <hi>French,</hi> and other <hi>Papists</hi> beyond Sea, for the <hi>Protostant</hi> cause, to be as Chymerical as what he saith that Army hath already done for the same. We must not set many hands to what few can do; sure I am a Fleet we cannot be without, and a Fleet of a necessary strength, well fitted, mann'd, provided, dispos'd in proper places, and well commanded, can do the Service by Sea, which is the main. If in our Neighbourhood, Men of War and Transport Ships be gathered, and Land-forces march towards
+<pb n="7" facs="tcp:57441:5"/>the Sea-coasts, and be Embarkt, we cannot be so fast asleep, but we must hear of it; neither can they fly over, but we may by means of a constant Fleet be always ready and pro<g ref="char:EOLhyphen"/>vided against any Attempts: This by Sea, and upon Occa<g ref="char:EOLhyphen"/>sion, the Militia, if well minded, (for the <hi>English</hi> generally have the Ground of a Soldier, that is Courage and Strength) can do Service by Land, so no need of a Standing Army. <hi>England</hi> would be very Unhappy to produce Men not able to Defend it, without the help of foreign Souldiers, or of such English as at one time or other might be made use of to oppress it; 'tis Prudence to avoid the Occasions tending to, and to prevent the Danger of it.</p>
+            <p>His Distinction of Times and Seasons is good, but ought well to be apply'd; (<hi>p.</hi> 7.) for if persons, tho disserent, carry on the same Design, there is no great Distinction of Times to be made, if you except may be some Circumstance at one time, more or less favourable than that of another. What there he saith of that which in the late Reigns the Court visibly aimed at, namely the Subversion of our Reli<g ref="char:EOLhyphen"/>gion and Liberties, is true, and that (as in the History of the standing Army is plainly shew'd) was by means of a Stand<g ref="char:EOLhyphen"/>ding Army: And doth he take us to be such Shuttle-cocks, as seeing now some would fall into the same way, and make use of the same means, that is of a Standing Army, we may not reasonably suspect there are on foot the same Ends, and tendency to the same things? And would the Man pretend to remove our Fears with barely saying, <hi>Can Malice it self say any such thing of this Government?</hi> He must give us leave at least, to think we see in a Standing Army something like it, tho the Nation hath cause abundantly to be satisfied of the Good Intention of the Government.</p>
+            <p>He in p. 8. unnecessarily troubles his Head about the Rea<g ref="char:EOLhyphen"/>son of the Enemies to Monarchy joyning with the <hi>Jacobites,</hi> as he would make a pother about <hi>Socinians</hi> being angry for passing the Bill against them, (<hi>p.</hi> 17, 18.) when we know how ma<g ref="char:EOLhyphen"/>ny that are for the Standing Army, and most part of the Courtiers (very few, to their immortal Praise excepted) were their Friends, and against the Bill.</p>
+            <pb n="8" facs="tcp:57441:6"/>
+            <p> Three Reasons he brings in to insmuate the Necessity of a Standing Army. The first to be in a Condition to Relieve the Oppressed Protestants abroad. A specious pretence indeed, but nothing of Reality in the bottom: If ever we intended to support that Cause, which I much doubt of, we lost the time to do't, when Papists were engaged against Papists, the House of <hi>Austria</hi> and Popish <hi>German</hi> Princes against <hi>France:</hi> We at that time were well Armed by Sea and Land, Confederated with other Protestant States; and if instead of making a kind of a separate Peace, the Protestant Cause could have been well minded, there was a fair Opportunity to have promoted it by an Advan<g ref="char:EOLhyphen"/>tageous Peace; therefore men should be ashamed to go about to Gull the Nation with such an Argument, since we know the pretence for Religion is with some but a Stalking Horse.</p>
+            <p>The 2d Reason is this; The Government hath Enemies at Home. But what Government hath not? We know how at first such Enemies were very inconsiderable, but if they be increased, we are beholding for it to some who had a Hand in it's Administration; and we may say, that if they be not removed, or alter not their methods, those Enemies will every day grow more and more; for by their frequent Miscarriages, they give them Advantage, and daily lose their Friends: They take no care for the publick Good, leave things at Six and Se<g ref="char:EOLhyphen"/>vens, and the people at the mercy of unreasonable men of se<g ref="char:EOLhyphen"/>veral kinds, who mind only to Inrich themselves by the Ruin of the Generality. Do they think the Nation can love them for designing to bring in a standing Army upon it? If they be really for Religion and Liberty, they need not fear any Foreign nor Home Enemy.</p>
+            <p>By his 3d Reason he would entail an Army upon the Na<g ref="char:EOLhyphen"/>tion, in some sense I may say for ever, for thus far it may go from Year to Year; because the French hath a standing Army to keep his Subjects under Slavery, therefore we must have one to keep us so too: he never hath under 150000 men at least, and must this be a rule for <hi>England,</hi> to have also many Thousands? He should consider, how here are not the same Reasons for it as the French hath: his People he Governs
+<pb n="9" facs="tcp:57441:6"/>Arbitrarily, so he must have an Army to force them to Obey, whether they will or not: Besides, he borders upon so ma<g ref="char:EOLhyphen"/>ny Princes and States, to whom he hath given sufficient Grounds of Fear and Jealousy of his Ambitious Undertakings, and as they stand upon their Guards, so he must stand upon his: Withal, his Dominions are upon the Continent, but our Situation requires different ways and means to preserve us; the Sea is the main concern of the Nation, therefore Arm by Sea, but Disarm by Land. What is it to us, if in <hi>Hollana</hi> they have a standing Army, their Circumstances different from ours, do require it: Yet those Forces are not kept in <hi>Amsterdam, Rotterdam,</hi> and inland Towns, only in their Frontier Places to defend them from foreign Attempts, which our Fleet must do for us.</p>
+            <p>And we doubt not but by God's Blessing, all shall be well, as long as His Majesty's good Intentions, and the Right Ends of the Government shall with care and faithfulness be exe<g ref="char:EOLhyphen"/>cuted by the Instruments therein employ'd: for God who is true in all his Undertakings, and hath so far brought us on in a way of Deliverance, will perfect what Remains to be done, which ought to be the hearty Wishes and Prayer of all that are well affected to the Government; whereof I take those to be the most dangerous Enemies, who by continuing a standing Army, would Rob the King of his Subjects Hearts, which he hath so justly pur<g ref="char:EOLhyphen"/>chased: For they look upon themselves as unsafe under a stand<g ref="char:EOLhyphen"/>ing Army, which upon occasion may happen to prove as Dange<g ref="char:EOLhyphen"/>rous to the Authority of the Government, as to the Liberties of the Nation, whereof the Body is strong enough to Defend it against all Foreign and Domestick Enemies; and I conclude those to be the best Friends to't, that are against a standing Army, and to speak against it is to plead the Cause of the true Interest of the Government. But let us return to our Author.</p>
+            <p>He doth name, but answers not the strong Reasons against a standing Army, such are the ill use which a Successor can make of it, and the present Inability of the Countrey to maintain it: To these he hath not a word of Answer, but leaves it to the Parliament's Wisdom: But suppose we should have one full of Courtiers, Pensioners, and Officers, for an Ar<g ref="char:EOLhyphen"/>my
+<pb n="10" facs="tcp:57441:7"/>Quartered up and down in the Nation will influence, if not over rule Elections; this in plain English is to say, a stand<g ref="char:EOLhyphen"/>ing Army we will have, prevent ye the Inconveniences and Dangers as ye can. But Thanks be to God, that this pre<g ref="char:EOLhyphen"/>sent Parliament hath, in their Wisdom, taken the right course to prevent the Dangers and Inconveniencies of a standing Army, by Disbanding it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
